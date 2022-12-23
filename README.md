@@ -4,7 +4,7 @@
 
 ...
 
-!["Port Breakout PCB"](./portbreakout.png)
+!["Port Breakout PCB"](./Assets/pcb.png)
 
 ----
 
