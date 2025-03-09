@@ -20,6 +20,7 @@
 ## Key Features
 
 * Makes available the ethernet ports pins in the Harp Behavior device
+* Allows the control of a 12V valve (e.g. Lee LHD series)
 * Screw terminals available for each pin 
 * Allows the use of the Harp Behavior serial TX (3.3V or 5V) instead of the valve return pin (v2.x)
 
@@ -28,7 +29,7 @@
 ## Connectivity
 
 * 1x Digital Input (DI)
-* 1x Digital Input / Output (DIO)
+* 1x Digital Input / Output (DIO) (can be used as the quadrature encoder output pin)
 * 1x Digital Output (DO)
 * 1x 5V supply (+5V)
 * 1x 12V supply (+12V) (v1.1 only)
