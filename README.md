@@ -19,9 +19,9 @@
 
 ## Key Features
 
-* Makes available the Harp behavior ethernet ports pins
-* Screws terminals available for each pin 
-* Allows the use of Harp behavior serial TX (3.3V or 5V) instead of the valve return pin (v2.x)
+* Makes available the ethernet ports pins in the Harp Behavior device
+* Screw terminals available for each pin 
+* Allows the use of the Harp Behavior serial TX (3.3V or 5V) instead of the valve return pin (v2.x)
 
 ----
 
