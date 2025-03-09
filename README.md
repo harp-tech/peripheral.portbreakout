@@ -2,8 +2,6 @@
 
 ## General description
 
-...
-
 !["Port Breakout PCB"](./Assets/pcb.png)
 
 ----
